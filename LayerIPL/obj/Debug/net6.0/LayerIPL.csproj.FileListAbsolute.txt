@@ -1,0 +1,15 @@
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.csproj.AssemblyReference.cache
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.AssemblyInfoInputs.cache
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.AssemblyInfo.cs
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/LayerIPL/bin/Debug/net6.0/LayerIPL
+/home/coder/project/workspace/LayerIPL/bin/Debug/net6.0/LayerIPL.deps.json
+/home/coder/project/workspace/LayerIPL/bin/Debug/net6.0/LayerIPL.runtimeconfig.json
+/home/coder/project/workspace/LayerIPL/bin/Debug/net6.0/LayerIPL.dll
+/home/coder/project/workspace/LayerIPL/bin/Debug/net6.0/LayerIPL.pdb
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.dll
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/refint/LayerIPL.dll
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.pdb
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/LayerIPL.genruntimeconfig.cache
+/home/coder/project/workspace/LayerIPL/obj/Debug/net6.0/ref/LayerIPL.dll
